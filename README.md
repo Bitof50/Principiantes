@@ -32,6 +32,6 @@ Cuando haces cambios en una rama secundaria y quieres añadir los cambios a la p
 
 ## DETALLES DEL PROCESO
 Aquí está el repositorio con todos los cambios.
-![Imagen 8](CarpetaGit/8.Detallesdelproceso)
+![Imagen 8](CarpetaGit/8.Detallesdelproceso.png)
 
 
