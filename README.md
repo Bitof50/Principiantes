@@ -28,7 +28,7 @@ En la siguiente imagen hemos modificado el archivo:
 
 ## FUSIONAR RAMA SECUNDARIA CON MAIN
 Cuando haces cambios en una rama secundaria y quieres añadir los cambios a la principal o viceversa, lo haremos a través de un "Pull request", el repositorio web detecta que hay cambios y te ofrece un "merge" que sería la fusión de las ramas, para ellos harás clic en el menú de las ramas, luego verás que la web te ofrece el pull request, cuanco clicas te sale un menú donde puedes añadir información con respecto al cambio. Haces clic en el botón "Commit changes" y acto seguido la propia web te hace la operación para ver si son compatibles para hacer una fusión, de este modo puedes hacerle un merge.
-![Imagen 7](CarpetaGit/7.Fusión_de_ambas_ramas.png)
+![Imagen 7](CarpetaGit/7.Fusión_ramas.png)
 
 ## DETALLES DEL PROCESO
 Aquí está el repositorio con todos los cambios.
