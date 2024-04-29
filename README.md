@@ -47,3 +47,32 @@ Aquí está el repositorio con todos los cambios.
 ![Imagen 8](CarpetaGit/8.Detallesdelproceso.png)
 
 
+## AYUDA CON TÉRMINOS DE GITHUB
+
+Las funciones más importantes de GD son:
+⦁	Clone (Clonar):
+⦁	Git: Clona un repositorio remoto en tu máquina local. Este comando crea una copia exacta del repositorio, incluyendo todas las ramas y el historial de commits.
+⦁	GitHub: Puedes clonar un repositorio desde la interfaz web de GitHub o usando la URL del repositorio en tu terminal.
+⦁	Pull (Tirar):
+⦁	Git: Descarga los cambios desde un repositorio remoto y los incorpora en tu rama local.
+⦁	GitHub: Puedes hacer un pull desde la interfaz web de GitHub o utilizando el comando git pull en tu terminal.
+⦁	Push (Empujar):
+⦁	Git: Sube tus cambios locales al repositorio remoto.
+⦁	GitHub: Puedes hacer un push desde la interfaz web de GitHub o utilizando el comando git push en tu terminal.
+⦁	Commit:
+⦁	Git: Guarda los cambios realizados en los archivos de tu repositorio. Cada commit tiene un mensaje asociado que describe los cambios realizados.
+⦁	GitHub: Puedes realizar commits desde la interfaz web de GitHub o utilizando el comando git commit en tu terminal.
+⦁	Fetch (Recuperar):
+⦁	Git: Descarga todos los cambios del repositorio remoto a tu repositorio local, pero no los incorpora automáticamente en tu rama actual.
+⦁	GitHub: Se puede hacer un fetch desde la interfaz web de GitHub o utilizando el comando git fetch en tu terminal.
+⦁	Merge (Fusionar):
+⦁	Git: Combina los cambios de una rama en otra rama. Por ejemplo, puedes fusionar una rama de desarrollo en una rama principal como main o master.
+⦁	GitHub: Se puede hacer un merge desde la interfaz web de GitHub o utilizando el comando git merge en tu terminal.
+⦁	Branch (Rama):
+⦁	Git: Permite trabajar en paralelo en diferentes líneas de desarrollo. Cada rama puede contener cambios independientes.
+⦁	GitHub: Puedes crear, eliminar y administrar ramas desde la interfaz web de GitHub o utilizando el comando git branch en tu terminal.
+⦁	Pull Request (Solicitud de extracción):
+⦁	GitHub: Una solicitud de extracción es una forma de proponer cambios en un repositorio. Permite a otros revisar los cambios antes de fusionarlos en la rama principal. Se puede crear desde la interfaz web de GitHub.
+
+
+
